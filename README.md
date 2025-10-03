@@ -1,42 +1,64 @@
-# Scalar_Assignment_Task
-Scalar-assignment
-Scaler Assignment: 📈 NPS Data to Strategic Operations Framework 🎯 Project Goal This repository showcases a comprehensive Data Analyst & Strategic Operations project completed as an assignment for Scaler.
+Scalar_Assignment_Task
 
-The core objective was to transform inconsistent NPS (Net Promoter Score) support ticket data into actionable strategic insights, ultimately designing a sustainable monitoring system to drive operational excellence and improve learner experience.
+Scaler Assignment: 📈 NPS Data to Strategic Operations Framework 🎯
 
-✨ Key Project Phases & Contributions The project covered the entire analytical lifecycle:
+This repository presents a comprehensive Data Analyst & Strategic Operations project completed as part of an assignment for Scaler.
 
-Data Quality & Governance Audit 🧹 Audit: Performed a deep audit to expose data inconsistencies, including missing critical information (dates/assignments), logical errors (Status-Sub-Status conflicts), and duplicate records.
-Prevention: Designed forward-looking data validation rules and recommended standardized data entry procedures to guarantee future data integrity.
+The primary objective was to transform inconsistent NPS (Net Promoter Score) support ticket data into actionable strategic insights, and to design a sustainable monitoring framework that drives operational excellence and enhances learner experience.
 
-Strategic Pattern Analysis & Prioritization 🧠 High-Impact Prioritization: Identified and analyzed the Top 5 most critical issue types based on a weighted score of frequency and impact.
-Scope: Strategically distinguished between problems that were cross-program (systemic) and those that were program-specific (isolated).
+✨ Key Project Phases & Contributions
+1. Data Quality & Governance Audit 🧹
 
-Efficiency: Analyzed resolution time patterns by issue category and pinpointed the single fix with the largest positive leverage for learners.
+Audit: Conducted a deep data audit to identify inconsistencies, such as:
 
-Trends: Explored weekly/monthly ticket volume trends, issue distribution across programs, and assessed team performance (resolution efficiency).
+Missing critical fields (dates, assignments)
 
-Monitoring Framework Design ⚙️ Root Cause Analysis (RCA): Conducted deep-dive RCAs on the top 3 critical issues, mapping their origins directly back to operational processes.
-KPI Dashboard: Developed a conceptual design for a KPI Dashboard, defining the core metrics, review cadence (weekly/monthly), required stakeholders, and clear escalation criteria.
+Logical errors (Status–Sub-Status mismatches)
 
-Future-Proofing: Recommended process improvements and potential automation opportunities for sustained resource optimization and efficiency gains.
+Duplicate records
 
-🛠️ Tools & Technologies Core Analysis: Microsoft Excel (or equivalent Python/Pandas for typical workflow)
+Prevention: Proposed data validation rules and standardized entry protocols to ensure long-term data accuracy and governance.
+
+2. Strategic Pattern Analysis & Prioritization 🧠
+
+High-Impact Prioritization: Ranked and analyzed the Top 5 most critical issue types using a weighted score (frequency × impact).
+
+Scope Mapping: Distinguished between cross-program (systemic) issues vs. program-specific (isolated) ones.
+
+Efficiency Gains: Analyzed resolution time by issue category to pinpoint the highest-leverage operational fix.
+
+Trend Analysis: Explored weekly/monthly ticket volumes, issue distribution across programs, and team performance benchmarks.
+
+3. Monitoring Framework Design ⚙️
+
+Root Cause Analysis (RCA): Performed deep RCAs on the Top 3 critical issues, tracing them back to underlying operational processes.
+
+KPI Dashboard (Conceptual Design): Outlined core metrics, review cadence (weekly/monthly), stakeholder mapping, and escalation pathways.
+
+Future-Proofing: Recommended automation opportunities and process improvements for sustained efficiency and resource optimization.
+
+🛠️ Tools & Technologies
+
+Core Analysis: Microsoft Excel (with equivalent workflows possible in Python/Pandas)
 
 Documentation: Markdown (README)
 
-Deliverable: Conceptual Dashboard Design & Monitoring Framework Document
+Deliverables: Conceptual Dashboard Design & Monitoring Framework Document
 
-📂 Repository Contents The repository contains the final analytical outputs and strategic documents used to fulfill the assignment requirements (represented by the corresponding CSV files).
+📂 Repository Contents
 
-... - Data Audit Summary.csv
+This repository includes the final analytical outputs and strategic documentation prepared for the assignment:
 
-... - Issue Analysis.csv
+Data Audit Summary.csv
 
-... - Weekly Trend.csv / ... - Monthly Trend.csv
+Issue Analysis.csv
 
-... - Agent Performance.csv
+Weekly Trend.csv / Monthly Trend.csv
 
-... - Monitoring Framework.csv
+Agent Performance.csv
 
-... - KPI Dashboard.csv
+Monitoring Framework.csv
+
+KPI Dashboard.csv
+
+✅ This project demonstrates expertise in data quality assurance, operational analytics, root cause analysis, and strategic reporting design—skills directly aligned with Data Analyst & Business Strategy roles.
