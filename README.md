@@ -8,7 +8,7 @@ The primary objective was to **transform inconsistent NPS (Net Promoter Score) s
 
 ## ✨ Key Project Phases & Contributions  
 
-### 1️⃣ Data Quality & Governance Audit 🧹  
+### 1️⃣ Data Quality & Governance Audit   
 - **Audit:** Conducted a deep data audit to identify inconsistencies, such as:  
   - Missing critical fields (dates, assignments)  
   - Logical errors (Status–Sub-Status mismatches)  
@@ -17,7 +17,7 @@ The primary objective was to **transform inconsistent NPS (Net Promoter Score) s
 
 ---
 
-### 2️⃣ Strategic Pattern Analysis & Prioritization 🧠  
+### 2️⃣ Strategic Pattern Analysis & Prioritization   
 - **High-Impact Prioritization:** Ranked and analyzed the **Top 5 most critical issue types** using a weighted score (frequency × impact).  
 - **Scope Mapping:** Distinguished between **cross-program (systemic)** issues vs. **program-specific (isolated)** ones.  
 - **Efficiency Gains:** Analyzed resolution time by issue category to pinpoint the **highest-leverage operational fix**.  
@@ -25,7 +25,7 @@ The primary objective was to **transform inconsistent NPS (Net Promoter Score) s
 
 ---
 
-### 3️⃣ Monitoring Framework Design ⚙️  
+### 3️⃣ Monitoring Framework Design  
 - **Root Cause Analysis (RCA):** Performed deep RCAs on the **Top 3 critical issues**, tracing them back to underlying operational processes.  
 - **KPI Dashboard (Conceptual Design):** Outlined core metrics, review cadence (weekly/monthly), stakeholder mapping, and escalation pathways.  
 - **Future-Proofing:** Recommended **automation opportunities** and **process improvements** for sustained efficiency and resource optimization.  
@@ -40,14 +40,14 @@ The primary objective was to **transform inconsistent NPS (Net Promoter Score) s
 ---
 
 ## 📂 Repository Contents  
+
 This repository includes the final analytical outputs and strategic documentation prepared for the assignment:  
 
-- `Data Audit Summary.csv`  
-- `Issue Analysis.csv`  
-- `Weekly Trend.csv` / `Monthly Trend.csv`  
-- `Agent Performance.csv`  
-- `Monitoring Framework.csv`  
-- `KPI Dashboard.csv`  
+- `Assignment_Data_NPS_Tracker_2025 (1).xlsx` – Raw/processed NPS tracker dataset  
+- `Sai_Scaler_Assignment.xlsx` – Analytical workbook with issue insights & trends  
+- `scalar_assignment.ipynb` – Jupyter Notebook with data cleaning, validation & analysis workflow  
+- `README.md` – Project documentation and strategic framework overview  
+
 
 ---
 
